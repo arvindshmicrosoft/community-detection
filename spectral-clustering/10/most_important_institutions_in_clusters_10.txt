@@ -1,0 +1,59 @@
+Cluster 0 (size 14315):
+Harvard University 866588
+Centre national de la recherche scientifique 586051
+Max Planck Society 536439
+Johns Hopkins University 517678
+Ohio State University 508367
+
+Cluster 1 (size 1151):
+University of Tokyo 176845
+Kyoto University 117612
+Osaka University 102749
+Tohoku University 93317
+Nagoya University 86013
+
+Cluster 2 (size 2):
+Saint Meinrad Seminary and School of Theology 1
+Kenrick–Glennon Seminary 1
+
+Cluster 3 (size 2):
+King County Library System 1
+University Prep 1
+
+Cluster 4 (size 5643):
+Chinese Academy of Sciences 274349
+University of Sydney 111107
+National Taiwan University 88964
+Peking University 87924
+University of Queensland 82510
+
+Cluster 5 (size 9):
+COMSAT 11
+International Telecommunications Satellite Organization 10
+BT Group 7
+National Telecommunications and Information Administration 5
+Essex County Council 3
+
+Cluster 6 (size 4384):
+Seoul National University 80789
+Yonsei University 54386
+Hanyang University 31957
+Pusan National University 27119
+University of Ulsan 24076
+
+Cluster 7 (size 9):
+Burnley College 29
+University of Bolton 15
+Manchester University 12
+Bolton College 11
+Oldham College 4
+
+Cluster 8 (size 3):
+International Society of Arachnology 6
+American Entomological Society 6
+American Arachnological Society 6
+
+Cluster 9 (size 2):
+Central Calcutta Polytechnic 17
+Calcutta Technical School 17
+

@@ -1,0 +1,11 @@
+Nodes: 25520
+Edges: 4202944
+
+Average weighted degree: 5458.925
+Minimum weighted degree: 0
+Maximum weighted degree: 966443.0
+
+Average degree: 329.3843260188088
+Minimum degree: 0
+Maximum degree: 9634
+

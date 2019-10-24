@@ -1,0 +1,36 @@
+Cluster 53 (size 1):
+Society for the Psychological Study of Social Issues 0
+
+Cluster 74 (size 1):
+National Housing Federation 0
+
+Cluster 3449 (size 1):
+Cambridge Philosophical Society 0
+
+Cluster 13262 (size 25509):
+Harvard University 966443
+Centre national de la recherche scientifique 660278
+Max Planck Society 606175
+Johns Hopkins University 581342
+University of Washington 573608
+
+Cluster 16359 (size 1):
+British Overseas Airways Corporation 0
+
+Cluster 19822 (size 1):
+Craven Community College 0
+
+Cluster 22541 (size 1):
+TeraView (United Kingdom) 0
+
+Cluster 23118 (size 1):
+Husqvarna (Sweden) 0
+
+Cluster 23779 (size 1):
+Meridian International Center 0
+
+Cluster 25373 (size 3):
+International Society of Arachnology 6
+American Entomological Society 6
+American Arachnological Society 6
+

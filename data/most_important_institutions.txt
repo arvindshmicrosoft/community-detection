@@ -1,0 +1,100 @@
+Harvard University 966443
+Centre national de la recherche scientifique 660278
+Max Planck Society 606175
+Johns Hopkins University 581342
+University of Washington 573608
+University of Michigan 566034
+Ohio State University 562841
+Massachusetts Institute of Technology 543334
+University of Wisconsin-Madison 531160
+Chinese Academy of Sciences 525869
+Imperial College London 511950
+University of Oxford 505623
+University of Toronto 500283
+University of California, Los Angeles 496896
+University of Tokyo 494543
+Stanford University 489627
+University of Pennsylvania 488001
+University of Cambridge 472299
+University College London 454493
+University of Milan 444243
+Yale University 442531
+Spanish National Research Council 438006
+Columbia University 430374
+Boston University 430043
+Northwestern University 429833
+University of Minnesota 424660
+University of California, San Diego 423706
+University of Bologna 423259
+Duke University 422309
+University of Maryland, College Park 411685
+University of Manchester 406787
+University of Pittsburgh 405976
+National Institutes of Health 403241
+Moscow State University 394652
+California Institute of Technology 393711
+Cornell University 393429
+University of Iowa 392471
+University of British Columbia 390229
+CERN 386944
+University of Edinburgh 382119
+Sapienza University of Rome 379777
+Heidelberg University 378701
+University of Padua 376775
+University of California, Berkeley 374804
+Rutherford Appleton Laboratory 373657
+University of Florida 370603
+University of Pisa 366543
+University of Chicago 366539
+University of Melbourne 364725
+Charles University in Prague 362128
+University of California, Davis 359011
+National and Kapodistrian University of Athens 356903
+Joint Institute for Nuclear Research 352871
+McGill University 352631
+Seoul National University 352563
+University of Sydney 351917
+University of Illinois at Urbana–Champaign 349783
+University of São Paulo 342483
+University of Liverpool 340836
+Princeton University 338918
+University of Helsinki 338883
+Purdue University 338787
+University of Birmingham 333598
+University of Bristol 328180
+University of Copenhagen 324834
+University of Arizona 324573
+University of Rochester 322575
+University of Colorado Boulder 322138
+University of Texas at Austin 319498
+Kyoto University 318525
+Petersburg Nuclear Physics Institute 317798
+Texas A&M University 315711
+Rutgers University 314521
+Ludwig Maximilian University of Munich 310067
+University of Zurich 308367
+Vanderbilt University 307234
+University of Glasgow 303505
+University of Virginia 303469
+Michigan State University 297911
+University of California, Irvine 297556
+University of Pavia 290764
+New York University 289902
+University of Paris 289865
+Boston Children's Hospital 288294
+Peking University 288046
+University of Hamburg 288010
+University of Amsterdam 287275
+Wayne State University 286320
+Autonomous University of Madrid 286269
+University of California, San Francisco 280168
+Argonne National Laboratory 279231
+University of Turin 278545
+Osaka University 277889
+Korea University 277529
+Lund University 276640
+National Taiwan University 273144
+Brown University 271408
+University of Alberta 269420
+University of California, Santa Barbara 269188
+University of Illinois at Chicago 268050

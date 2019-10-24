@@ -1,0 +1,302 @@
+Cluster 0 (size 7673):
+Harvard University 441519
+University of Washington 259538
+Johns Hopkins University 250583
+University of Michigan 233097
+University of Pennsylvania 222116
+
+Cluster 1 (size 4070):
+University of Melbourne 135593
+University of Oxford 133319
+University College London 131208
+University of Cambridge 130062
+University of Sydney 125614
+
+Cluster 2 (size 298):
+Anna University 5178
+University of Madras 2642
+Bharathiar University 2598
+VIT University 2106
+Government Arts College, Coimbatore 2003
+
+Cluster 3 (size 3):
+International Society of Arachnology 6
+American Entomological Society 6
+American Arachnological Society 6
+
+Cluster 4 (size 2):
+King County Library System 1
+University Prep 1
+
+Cluster 5 (size 2):
+Vavuniya General Hospital 1
+Batticaloa Teaching Hospital 1
+
+Cluster 6 (size 2):
+Saint Meinrad Seminary and School of Theology 1
+Kenrick–Glennon Seminary 1
+
+Cluster 7 (size 4364):
+Centre national de la recherche scientifique 291045
+Max Planck Society 263034
+Spanish National Research Council 171873
+Heidelberg University 156829
+University of Manchester 149225
+
+Cluster 8 (size 1676):
+Chinese Academy of Sciences 258225
+Peking University 73891
+Tsinghua University 70430
+Shanghai Jiao Tong University 63418
+Zhejiang University 59787
+
+Cluster 9 (size 14):
+Technological Institute of the Philippines 63
+Emilio Aguinaldo College 35
+West Visayas State University 22
+University of the Philippines Diliman 15
+Visayas State University 7
+
+Cluster 10 (size 12):
+Lpp 18
+Chicago Metropolitan Agency for Planning 17
+CEREMADE 14
+Lohia Machinery Limited 9
+Pacific Maritime Association 4
+
+Cluster 11 (size 2):
+Birmingham Public Library 1
+Birmingham Civil Rights Institute 1
+
+Cluster 12 (size 26):
+Tata Motors 111
+Tata Technologies 93
+College of Engineering, Pune 64
+Mahle GmbH 59
+MAHLE Powertrain 39
+
+Cluster 13 (size 2):
+Royal Institute of British Architects 1
+St David's College, Llandudno 1
+
+Cluster 14 (size 2):
+Nebraska Indian Community College 1
+Little Priest Tribal College 1
+
+Cluster 15 (size 2):
+Association of Science-Technology Centers 1
+Arizona Science Center 1
+
+Cluster 16 (size 2):
+Madisonville Community College 1
+Hopkinsville Community College 1
+
+Cluster 17 (size 571):
+Hyundai Motor Company 872
+Kia Motors 831
+Tyco International 46
+Hyundai Mobis 39
+TE Connectivity 37
+
+Cluster 18 (size 626):
+Council of Scientific and Industrial Research 5644
+Indian Institutes of Technology 5167
+Academy of Scientific and Innovative Research 4297
+Banaras Hindu University 3654
+Indian Institute of Technology Delhi 3464
+
+Cluster 19 (size 402):
+Massachusetts Institute of Technology 181845
+University of Wisconsin-Madison 170721
+University of Padua 166491
+University of Bologna 165971
+University of Milan 163179
+
+Cluster 20 (size 33):
+Lutheran School of Theology at Chicago 16
+Wartburg Theological Seminary 13
+George Fox Evangelical Seminary 12
+Luther Seminary 12
+Columbia Theological Seminary 11
+
+Cluster 21 (size 288):
+Hacettepe University 12894
+Gazi University 11423
+Ankara University 11124
+Istanbul University 10994
+Ege University 8289
+
+Cluster 22 (size 430):
+National Taiwan University 64268
+Islamic Azad University 46024
+National Cheng Kung University 31837
+Academia Sinica 29796
+Tehran University of Medical Sciences 29152
+
+Cluster 23 (size 4):
+Public Broadcasting Service 4
+Corporation for Public Broadcasting 3
+Minnesota Public Radio 2
+Twin Cities Public Television 1
+
+Cluster 24 (size 3):
+British Psychoanalytical Society 2
+British Psychoanalytic Council 2
+Tavistock Institute 2
+
+Cluster 25 (size 525):
+Seoul National University 106042
+Yonsei University 67136
+Korea University 66822
+Sungkyunkwan University 48665
+Hanyang University 37469
+
+Cluster 26 (size 6):
+Burnley College 29
+University of Bolton 12
+Bolton College 11
+Manchester University 11
+Oldham College 4
+
+Cluster 27 (size 17):
+Investment Company Institute 30
+TIAA–CREF 26
+Employee Benefit Research Institute 25
+Standard & Poor's 24
+Crédit Agricole 7
+
+Cluster 28 (size 283):
+All India Institute of Medical Sciences 3451
+Manipal University 2576
+Kasturba Medical College, Manipal 2468
+Post Graduate Institute of Medical Education and Research 1390
+Government Medical College, Thiruvananthapuram 1357
+
+Cluster 29 (size 420):
+King Saud University 10664
+Cairo University 10161
+COMSATS Institute of Information Technology 7812
+King Abdulaziz University 7708
+Al-Azhar University 4812
+
+Cluster 30 (size 1358):
+University of Tokyo 210335
+Kyoto University 136916
+Osaka University 119389
+Tohoku University 105995
+Nagoya University 100733
+
+Cluster 31 (size 43):
+Bangabandhu Sheikh Mujib Medical University 1143
+Dhaka Medical College and Hospital 1103
+Sir Salimullah Medical College 451
+Shaheed Suhrawardy Medical College 310
+Chittagong Medical College Hospital 279
+
+Cluster 32 (size 204):
+Indian Council of Agricultural Research 3138
+Indian Agricultural Research Institute 1924
+Indian Veterinary Research Institute 1187
+International Crops Research Institute for the Semi-Arid Tropics 1126
+International Maize and Wheat Improvement Center 956
+
+Cluster 33 (size 348):
+University of Ibadan 4937
+University of Pretoria 4505
+University of KwaZulu-Natal 3798
+Obafemi Awolowo University 2738
+University of Nigeria, Nsukka 2628
+
+Cluster 34 (size 20):
+Michigan State University 10177
+Argonne National Laboratory 8573
+University of New Mexico 7363
+Stony Brook University 7046
+Tufts University 6974
+
+Cluster 35 (size 27):
+Mindanao State University – Iligan Institute of Technology 41
+Caraga State University 29
+Liceo de Cagayan University 27
+Mindanao State University 25
+University of San Jose–Recoletos 25
+
+Cluster 36 (size 120):
+University of Dhaka 2185
+Bangladesh University of Engineering and Technology 1433
+Bangladesh Agricultural University 1353
+University of Rajshahi 1092
+Jahangirnagar University 982
+
+Cluster 37 (size 455):
+University of Malaya 12391
+National University of Malaysia 11515
+Universiti Putra Malaysia 10034
+Universiti Teknologi Malaysia 10020
+Universiti Sains Malaysia 9287
+
+Cluster 38 (size 14):
+International Securities Exchange 11
+Direct Edge 10
+Council on Foreign Relations 8
+Investment Technology Group, Inc. 8
+Liquidnet 8
+
+Cluster 39 (size 4):
+COMSAT 10
+International Telecommunications Satellite Organization 8
+National Telecommunications and Information Administration 1
+Intelsat 1
+
+Cluster 40 (size 2):
+Middlesbrough College 1
+College of North West London 1
+
+Cluster 42 (size 3):
+Jinja Hospital 2
+Fort Portal Hospital 2
+Hoima Hospital 2
+
+Cluster 43 (size 303):
+Jadavpur University 8008
+University of Calcutta 4824
+Indian Institute of Technology Kharagpur 3156
+Indian Institute of Engineering Science and Technology, Shibpur 2455
+Indian Statistical Institute 2453
+
+Cluster 44 (size 2):
+Central Calcutta Polytechnic 17
+Calcutta Technical School 17
+
+Cluster 45 (size 132):
+Jawaharlal Nehru Technological University, Hyderabad 1660
+Osmania University 1657
+Andhra University 1409
+Indian Institute of Chemical Technology 1214
+University of Hyderabad 1162
+
+Cluster 46 (size 2):
+Madenat Alelem University College 2
+Al Turath University College 2
+
+Cluster 47 (size 588):
+University of São Paulo 94184
+Sao Paulo State University 42707
+State University of Campinas 39887
+Universidade Federal do Rio Grande do Sul 37539
+Federal University of Rio de Janeiro 35240
+
+Cluster 48 (size 6):
+Chhatrapati Shivaji Institute of Technology 32
+Raipur Institute of Technology 20
+Rani Durgavati University 17
+Shri Shankaracharya College of Engineering and Technology 6
+Gyan Ganga Institute of Technology & Sciences 5
+
+Cluster 49 (size 129):
+University of Mysore 2056
+Mangalore University 1311
+Bangalore University 913
+M. S. Ramaiah Institute of Technology 760
+Tumkur University 760
+

@@ -1,0 +1,14 @@
+Nodes: 10
+Edges: 8
+
+Average weighted degree: 2.0
+Minimum weighted degree: 0
+Maximum weighted degree: 10.0
+
+Average degree: 1.6
+Minimum degree: 0
+Maximum degree: 8
+
+Average cluster size: 2552.0
+Minimum cluster size: 1
+Maximum cluster size: 25509

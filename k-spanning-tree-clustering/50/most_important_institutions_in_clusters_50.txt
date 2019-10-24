@@ -1,0 +1,158 @@
+Cluster 53 (size 1):
+Society for the Psychological Study of Social Issues 0
+
+Cluster 74 (size 1):
+National Housing Federation 0
+
+Cluster 84 (size 1):
+Nepal Rastra Bank 0
+
+Cluster 89 (size 1):
+American Association of School Administrators 0
+
+Cluster 97 (size 1):
+Methodist College Belfast 0
+
+Cluster 119 (size 2):
+German Federal Archives 0
+Argosy University, Seattle 0
+
+Cluster 133 (size 1):
+Lone Star College–Montgomery 0
+
+Cluster 138 (size 1):
+Southeastern Baptist Theological Seminary 0
+
+Cluster 204 (size 1):
+Gelsenwasser 0
+
+Cluster 212 (size 1):
+National Urban Forestry Unit 0
+
+Cluster 223 (size 1):
+Management Systems International 0
+
+Cluster 228 (size 2):
+Lakewood Health System 0
+Tatar State University of Humanities and Education 0
+
+Cluster 255 (size 1):
+National Institute of Building Sciences 0
+
+Cluster 279 (size 1):
+Divine Word College 0
+
+Cluster 378 (size 1):
+Magee College 0
+
+Cluster 542 (size 1):
+Digic Pictures 0
+
+Cluster 3449 (size 1):
+Cambridge Philosophical Society 0
+
+Cluster 7756 (size 1):
+NORM-UK 0
+
+Cluster 9710 (size 1):
+University of Königsberg 0
+
+Cluster 10503 (size 1):
+Eastern Mennonite Seminary 0
+
+Cluster 13262 (size 1):
+Instituto Lingüístico de Verano 0
+
+Cluster 13354 (size 1):
+Waterloo Hydrogeologic 0
+
+Cluster 13715 (size 1):
+Baden-Wuerttemberg Cooperative State University Loerrach 0
+
+Cluster 14331 (size 1):
+SCR 0
+
+Cluster 14354 (size 1):
+Peabody Energy 0
+
+Cluster 14415 (size 1):
+Zebra Technologies 0
+
+Cluster 16359 (size 1):
+British Overseas Airways Corporation 0
+
+Cluster 18228 (size 1):
+Hughes Helicopters 0
+
+Cluster 18294 (size 1):
+Civil Aeronautics Board 0
+
+Cluster 18671 (size 25467):
+Harvard University 966442
+Centre national de la recherche scientifique 660278
+Max Planck Society 606175
+Johns Hopkins University 581341
+University of Washington 573606
+
+Cluster 19521 (size 1):
+Australian National Maritime Museum 0
+
+Cluster 19822 (size 1):
+Craven Community College 0
+
+Cluster 20142 (size 1):
+Studio Museum in Harlem 0
+
+Cluster 20221 (size 1):
+Virginia Historical Society 0
+
+Cluster 20370 (size 1):
+Presbyterian Theological College 0
+
+Cluster 21624 (size 1):
+California Coast University 0
+
+Cluster 22101 (size 1):
+Southern State Community College 0
+
+Cluster 22541 (size 1):
+TeraView (United Kingdom) 0
+
+Cluster 22714 (size 1):
+Canadian Association of Geographers 0
+
+Cluster 23102 (size 1):
+Ethiopian Police University College 0
+
+Cluster 23118 (size 1):
+Husqvarna (Sweden) 0
+
+Cluster 23650 (size 1):
+Indian Society of International Law 0
+
+Cluster 23779 (size 1):
+Meridian International Center 0
+
+Cluster 23881 (size 1):
+Trinity College of Florida 0
+
+Cluster 24269 (size 1):
+Oklahoma Department of Rehabilitation Services 0
+
+Cluster 24452 (size 1):
+Kentucky Historical Society 0
+
+Cluster 24582 (size 1):
+Kirklandside Hospital 0
+
+Cluster 24669 (size 1):
+Thaddeus Stevens College of Technology 0
+
+Cluster 24898 (size 1):
+English Speaking Union 0
+
+Cluster 25373 (size 3):
+International Society of Arachnology 6
+American Entomological Society 6
+American Arachnological Society 6
+

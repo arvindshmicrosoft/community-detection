@@ -1,0 +1,14 @@
+Nodes: 49
+Edges: 481
+
+Average weighted degree: 1549392.0
+Minimum weighted degree: 0
+Maximum weighted degree: 18101874.0
+
+Average degree: 19.632653061224488
+Minimum degree: 0
+Maximum degree: 42
+
+Average cluster size: 520.8163265306123
+Minimum cluster size: 2
+Maximum cluster size: 7673

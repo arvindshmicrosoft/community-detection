@@ -1,0 +1,10 @@
+data/zips
+data/papers_info.tsv
+.idea
+create_clustered_graph
+create_graph
+graph_analysis
+k_spanning_tree
+remap_ids
+*/cluster_graph_50.net
+*/cluster_graph_10.net

@@ -9,7 +9,7 @@ def degree_distribution(G, file_name):
 	deg, cnt = zip(*degree_count.items())
 
 	fig, ax = plt.subplots()
-	plt.plot(deg, cnt, "bo")
+	plt.loglog(deg, cnt, "bo")
 
 	plt.title("Weighted degree distribution")
 	plt.ylabel("Count")
@@ -29,7 +29,7 @@ def edge_weight_distribution(G, file_name):
 	points.reverse()
 
 	fig, ax = plt.subplots()
-	plt.plot(weight, cnt, "bo")
+	plt.loglog(weight, cnt, "bo")
 
 	plt.title("Edge Weight Distribution")
 	plt.ylabel("Count")
@@ -121,9 +121,9 @@ def general_info(G, file_name, cluster_file):
 
 
 
-folder = "spectral-clustering/10"
+folder = "k-spanning-tree-clustering/10"
 name = "merged_graph_10.net"
-cluster_file = "spectral_clusters_10.txt"
+cluster_file = "k_spanning_tree_10.txt"
 output_file = name[:-4] + "_analysis.txt"
 weight_distribution_file = name[:-4] + "_edge_weights.png"
 degree_distribution_file = name[:-4] + "_degrees.png"
